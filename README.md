@@ -17,7 +17,7 @@ This project demonstrates a simple web scraping implementation using BeautifulSo
 
 #### Usage:
 1. open `consultancy services (WebScrapping).ipynb` to initiate the web scraping process.
-2. The extracted data will be saved in a DataFrame and stored in `data.csv`.
+2. The extracted data will be saved in a DataFrame and stored in `consultancy_services.csv`.
 3. Use the data for further analysis or visualization.
 
 #### Libraries Used:
