@@ -6,7 +6,7 @@
 This project demonstrates a simple web scraping implementation using BeautifulSoup and the requests module in Python. The extracted data is then stored in a pandas DataFrame for further analysis and manipulation.
 
 #### Project Structure:
-- **main.py**: Contains the Python script for web scraping.
+- **consultancy services (WebScrapping).ipynb**: Contains the Python script for web scraping.
 - **requirements.txt**: Lists the required libraries for this project.
 - **data.csv**: Sample extracted data saved in CSV format.
 - **README.md**: Documentation for the project.
@@ -16,7 +16,7 @@ This project demonstrates a simple web scraping implementation using BeautifulSo
 2. Install the required libraries: `pip install -r requirements.txt`
 
 #### Usage:
-1. Run `main.py` to initiate the web scraping process.
+1. open `consultancy services (WebScrapping).ipynb` to initiate the web scraping process.
 2. The extracted data will be saved in a DataFrame and stored in `data.csv`.
 3. Use the data for further analysis or visualization.
 
