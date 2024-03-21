@@ -10,7 +10,7 @@ This project demonstrates a simple web scraping implementation using BeautifulSo
 
 #### Project Structure:
 - **consultancy services (WebScrapping).ipynb**: Contains the Python script for web scraping.
-- **requirements.txt**: Lists the required libraries for this project.
+- **requirements.txt**: Required libraries for this project.
 - **data.csv**: Sample extracted data saved in CSV format.
 - **README.md**: Documentation for the project.
 
