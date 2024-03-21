@@ -15,7 +15,7 @@ This project demonstrates a simple web scraping implementation using BeautifulSo
 - **README.md**: Documentation for the project.
 
 #### Installation:
-1. Clone the repository: `git clone https://github.com/yourusername/your-repo.git`
+1. Clone the repository: `git clone https://github.com/adamsmith75/WebScrapping.git`
 2. Install the required libraries: `pip install -r requirements.txt`
 
 #### Usage:
