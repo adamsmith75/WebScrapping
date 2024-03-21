@@ -2,7 +2,7 @@
 
 ### Web Scraping Project using BeautifulSoup and Requests Module
 
-![Uploading webscrap.jpg…]()
+![Beautiful Soup Logo](webscrap.jpg)
 
 
 #### Overview:
